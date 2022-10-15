@@ -13,7 +13,7 @@ int multiplicacion(int x, int y){
 }
 
 int main(){
-    //printf("Hola Mundo en C\n");
+    printf("Hola Mundo en C\n");
 
     printf("Suma = %d\n",suma(5,6));
     printf("Resta = %d\n",resta(10,4));
