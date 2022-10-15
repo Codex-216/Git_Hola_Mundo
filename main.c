@@ -17,6 +17,10 @@ int multiplicacion(int x, int y){
     return x * y;
 }
 
+int division(int x , int y){
+    return x / y;
+}
+
 int main(){
     printf("Hola Mundo en C\n");
 
