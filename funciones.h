@@ -5,5 +5,9 @@ char* mostrarNombreAutor(){
     return "Gustavo Hernandez";
 }
 
+void funcionX(){
+    
+}
+
 
 #endif
