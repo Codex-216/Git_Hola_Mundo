@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 int suma(int x, int y){
+    if(x < 0){
+        printf("Validacion Funcion Suma\n");
+        printf("Este numero es menor de cero\n");
+    }
+    
     return x + y;
 }
 
