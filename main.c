@@ -8,6 +8,8 @@ int suma(int x, int y){
 }
 
 int resta(int x, int y){
+    if(x > 0)
+        printf("Numero mayor a cero\n");
     return x - y;
 }
 
